@@ -6,4 +6,4 @@ def always_returns_true():
 
 
 def test_always_returns_true():
-    print("hello")
+    print("hey")
